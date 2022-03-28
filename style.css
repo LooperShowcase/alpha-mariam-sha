@@ -1,0 +1,46 @@
+#b3rfsh {
+  background-color: bisque(255, 140, 0);
+  font-family: "Shizuru", cursive;
+}
+#shob3rfne {
+  background-color: rgb(255, 255, 255);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: #333;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(223, 218, 158);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+#about {
+  background-color: rgb(240, 220, 195);
+}
+p {
+  font-family: "Shizuru", cursive;
+}
